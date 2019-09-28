@@ -1,0 +1,18 @@
+---
+layout: post
+title:  "Angelito o Diablito"
+img: 'angelito-o-diablito'
+categories: [articulos]
+tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+excerpt_separator: <!--more-->
+---
+
+La adultez se caracteriza por ese período de la vida en donde la persona aprende a tomar decisiones y asume las consecuencias de las mismas. Las decisiones abarcan todos los aspectos de la vida: académicos, laborales, familiares, emocionales, sociales, sexuales y de pareja.
+
+Usualmente, cuando decidimos sobre algo, escuchamos a nuestras voces internas. Unas nos hablan desde la norma y el deber ser, pero otras nos hablan desde la ruptura de la lógica y abrazan la espontaneidad y el placer propio. Son dos visiones completamente distintas pero ambas coexisten en nuestras mentes. Es la persona, en medio de su análisis, quien decide escuchar más a una voz que a la otra. ¿En base a qué hace esa decisión? Las personas usan su escala de valores para tomar todo tipo de decisiones. La escala de valores de la persona se forma durante la crianza, en una unión de hogar, comunidad y escuela.
+
+Por ejemplo, si una persona fue educada en un ambiente en donde la “infidelidad” es vista como normal, no buena pero sí inevitable, probablemente, ante una tentación escuchará al diablito para que le dé permiso de dejarse llevar a pesar del engaño que implica. Por el contrario, una persona que fue criada en un ambiente en donde la infidelidad está mal vista y es evitable, probablemente escuchará al angelito y alejará la tentación.
+
+Con este ejemplo, pretendo hacerles reflexionar sobre esos valores inculcados muy temprano en sus vidas y las decisiones que han ido tomado a lo largo de la vida. Asimismo, pretendo que recuerden las distintas opiniones escuchadas en la infancia sobre distintos tópicos. Por ejemplo, si usted ha sido una persona agresiva, analice dónde aprendió a naturalizar esa agresividad y más aún, en qué ambiente le dieron el ejemplo contrario. Tal vez en casa eran agresivos pero ¿y en la escuela? por qué repite la historia de casa y no la de la escuela.
+
+Siempre tenemos la opción de escuchar al angelito o al diablito, pero también tenemos que considerar algo más que nuestra escala de valores: al otro al que afecto con esa decisión. ¿Vale la pena causarle molestia o dolor al otro? Toca pensar…
