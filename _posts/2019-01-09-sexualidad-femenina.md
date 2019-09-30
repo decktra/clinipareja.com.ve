@@ -1,0 +1,14 @@
+---
+layout: post
+title:  "Angelito o Diablito"
+img: 'angelito-o-diablito'
+categories: [articulos]
+tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+excerpt_separator: <!--more-->
+---
+
+La sexualidad de las mujeres es uno de los temas más abandonados en nuestra cultura, pero también es de los temas más consultados en terapia. Las consultas suelen ser de forma directa, es decir, mujeres consultando, o de forma indirecta, hombres consultando por el desempeño de sus parejas. A menudo asisten mujeres pidiendo auxilio para aprender a tener deseo y aceptar las solicitudes frecuentes de sexo de sus parejas, como si el sexo se tratase de complacer al hombre sin que sea desagradable para ellas. Allí radica el gran error: ¡El sexo también es placentero para las mujeres! Sin embargo, no es algo de lo que se hable abiertamente y la ignorancia en el tema ha hecho creer que las mujeres pueden vivir tranquilamente sin sexo y que no es una necesidad. Hombres y mujeres podrían vivir sin sexo, pues nadie muere por falta de sexo, pero los hombres han aprendido a autoerotizarse sin sentirse mal por ello y sus niveles de excitación suelen ser más elevados que los de las mujeres. Pero lo cierto es que una mujer también puede desear el sexo y saber cómo le gusta ser amada en la cama. Lo que hace falta es: curiosidad y autoexploración.
+
+Una mujer que no se permita conocerse y disfrutar de su cuerpo, muy probablemente tendrá dificultades eróticas con su pareja, dado que la entrega en los encuentros sexuales no será completa ni orientada al placer propio. Constantemente me llegan mujeres a la consulta cuya inquietud es “nunca he tenido un orgasmo”, “no deseo tener sexo”, “soy mala cama”. Chicas, la clave es conocerse antes de darse a conocer. Conocer el cuerpo, conocer la mente erótica, recordar y analizar las experiencias amatorias pasadas e imaginar los deseos más profundos. Atrévete a conocer cómo funcionas y qué te hace única.
+
+Los tabúes, la religión, las restricciones en casa, la rigidez mental y los miedos, a menudo obstaculizan este proceso de reconocimiento corporal y mental, por lo que es posible que requieras de una orientación profesional para saber qué hacer, en qué orden y cómo manejar el impacto emocional de esta búsqueda de ti. Asimismo, un profesional puede ayudarte a integrar todos estos descubrimientos a la cama con tu pareja de la forma más natural posible. No dudes en pedir ayuda si crees que ha llegado tu momento de mejorar este aspecto de tu vida pero no sientes tener la información necesaria para iniciar el proceso. Psicólogos y sexólogos pueden ayudarte con pocas sesiones para darte el empujón motivacional e informativo que necesitas.
