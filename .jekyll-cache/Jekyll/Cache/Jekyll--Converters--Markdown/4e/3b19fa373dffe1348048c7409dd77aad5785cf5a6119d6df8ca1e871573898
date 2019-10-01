@@ -1,4 +1,4 @@
-<section class="ftco-section contact-section">
+I"‚<section class="ftco-section contact-section">
   <div class="container">
     <div class="row d-flex mb-5 contact-info justify-content-center">
       <div class="col-md-8">
@@ -7,7 +7,7 @@
             <div class="icon">
               <i class="fas fa-map-pin fa-3x"></i>
             </div>
-            <p><span>Address:</span> Calle La Paz, 181, Caracas, Venezuela</p>
+            <p><span>Address:</span> 198 West 21th Street, Suite 721 New York NY 10016</p>
           </div>
           <div class="col-md-4 text-center border-height py-4">
             <div class="icon">
@@ -31,3 +31,4 @@
     </div>
   </div>
 </section>
+:ET
