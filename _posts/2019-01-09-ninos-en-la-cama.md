@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Niños en la Cama"
+img: 'ninos-en-la-cama'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [hijos, parejas, psicologo, sexo, terapia]
 excerpt_separator: <!--more-->
 ---
 

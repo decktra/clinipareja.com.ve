@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Sexualidad Femenina"
+img: 'sexualidad-femenina'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [caracas, masturbacion, mujer, orgasmo, psicologo, sexologo, sexualidad]
 excerpt_separator: <!--more-->
 ---
 

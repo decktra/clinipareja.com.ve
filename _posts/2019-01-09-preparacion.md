@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Preparación"
+img: 'preparacion'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [erotismo, previo, seduccion, sexo, terapia]
 excerpt_separator: <!--more-->
 ---
 

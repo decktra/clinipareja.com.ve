@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Por Quién lo Hago"
+img: 'por-quien-lo-hago'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [erotismo, exploracion, psicologo, sexo, sexologo]
 excerpt_separator: <!--more-->
 ---
 

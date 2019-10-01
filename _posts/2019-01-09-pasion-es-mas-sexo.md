@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Pasión es más que Sexo"
+img: 'pasion-es-mas-que-sexo'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [besos, caricias, comnicacion, erotismo, masturbacion, parejas, pasion, risas, sexo]
 excerpt_separator: <!--more-->
 ---
 

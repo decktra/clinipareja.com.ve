@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Picante en la Relación"
+img: 'picante-en-la-relacion'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [pasion, picante, sexo, sexologia, sexualidad]
 excerpt_separator: <!--more-->
 ---
 

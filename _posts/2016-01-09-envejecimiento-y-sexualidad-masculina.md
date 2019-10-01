@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ambiente Erótico"
+title:  "Envejecimiento y Sexualidad Masculina"
+img: 'envejecimiento-y-sexualidad-masculina'
 categories: [articulos]
-tags: [ambiente, erotismo, parejas, pasion, preparacion, sexo]
+tags: [adulto, dificultad, disfuncion, ereccion, erectil, hombre, sexologo, sexualidad, terapia]
 excerpt_separator: <!--more-->
 ---
 

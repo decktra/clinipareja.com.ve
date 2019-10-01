@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ambiente Erótico"
+title:  "Harto de Discutir"
+img: 'harto-de-discutir'
 categories: [articulos]
-tags: [ambiente, erotismo, parejas, pasion, preparacion, sexo]
+tags: [cercania, comunicacion, distancia, parejas, psicologo, relacion, terapia]
 excerpt_separator: <!--more-->
 ---
 

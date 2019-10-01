@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Detente y Respira"
+img: 'detente-y-respira'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [bienestar, estres, psicologia, terapia]
 excerpt_separator: <!--more-->
 ---
 

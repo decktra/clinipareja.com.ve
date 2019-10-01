@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Vacaciones en Pareja"
+img: 'vacaciones-en-pareja'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [parejas]
 excerpt_separator: <!--more-->
 ---
 

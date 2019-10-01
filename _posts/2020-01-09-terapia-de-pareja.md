@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Terapia de Pareja"
+img: 'terapia-de-pareja'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: []
 excerpt_separator: <!--more-->
 ---
 

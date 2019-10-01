@@ -3,10 +3,10 @@ layout: default
 title: "Inicio"
 ---
 
-## Clinipareja
-
-Artículos
-
+{% include carousel.html %}
+{% include instagram.html %}
+{% include banner.html %}
+{% include testimonies.html %}
 <ul>
   {% for post in site.posts %}
     <li>

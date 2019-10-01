@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "El Foco en Ti"
+img: 'el-foco-en-ti'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [cambio, foco, mejorar, optica, psicologia, psicologo, queja, terapia]
 excerpt_separator: <!--more-->
 ---
 

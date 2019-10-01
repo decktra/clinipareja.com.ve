@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "La Gran Preocupación Masculina"
+img: 'la-gran-preocupacion-masculina'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [caracas, confianza, disfunciones, hombre, pene, sexo, sexoogia, sexologo, terapia]
 excerpt_separator: <!--more-->
 ---
 

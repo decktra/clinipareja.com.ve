@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Preguntas de los  Hombres"
+img: 'preguntas-de-los-hombres'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [eyaculacion, fantasias, flacidez, lubricacion, masturbacion, orgasmo, precoz]
 excerpt_separator: <!--more-->
 ---
 

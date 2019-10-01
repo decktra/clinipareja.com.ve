@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Dificultades de Lubricación"
+img: 'dificultades-de-lubricacion'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [caracas, lubricacion, mujer, preparacion, sexologo, terapia, vagina]
 excerpt_separator: <!--more-->
 ---
 

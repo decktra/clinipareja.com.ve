@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Creatividad en la Cama"
+img: 'creatividad-en-la-cama'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: []
 excerpt_separator: <!--more-->
 ---
 

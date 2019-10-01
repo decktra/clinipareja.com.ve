@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ambiente Erótico"
+title:  "Eyaculación Precoz"
+img: 'eyaculacion-precoz'
 categories: [articulos]
-tags: [ambiente, erotismo, parejas, pasion, preparacion, sexo]
+tags: [caracas, eyaculacion, masturbacion, parejas, precoz, sexo, sexologo, terapia]
 excerpt_separator: <!--more-->
 ---
 

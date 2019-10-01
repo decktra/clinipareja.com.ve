@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Relación Ácida"
+img: 'relacion-acida'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [discusiones, ira, parejas, peleas, psicologo, rabia, terapia]
 excerpt_separator: <!--more-->
 ---
 

@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Tiempo para la Pareja"
+img: 'tiempo-para-la-pareja'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [convivencia, parejas, relacion, rutina]
 excerpt_separator: <!--more-->
 ---
 

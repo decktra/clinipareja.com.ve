@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Rabia o Tristeza"
+img: 'rabia-o-tristeza'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [discusiones, emociones, inteligencia, emocional, psicologia, rabia, terapia, tristeza]
 excerpt_separator: <!--more-->
 ---
 

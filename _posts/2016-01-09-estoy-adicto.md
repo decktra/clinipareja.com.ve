@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ambiente Erótico"
+title:  "Estoy Adicto"
+img: 'estoy-adicto'
 categories: [articulos]
-tags: [ambiente, erotismo, parejas, pasion, preparacion, sexo]
+tags: [adiccion, frecuencia, masturbacion, placer, pornografia, sexologo, terapia]
 excerpt_separator: <!--more-->
 ---
 

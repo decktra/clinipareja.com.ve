@@ -1,9 +1,9 @@
 ---
 layout: post
-title:  "Angelito o Diablito"
-img: 'angelito-o-diablito'
+title:  "Infidelidades Descubiertas"
+img: 'infidelidades-descubiertas'
 categories: [articulos]
-tags: [adultez, decisiones, psicologia, responsabilidad, valores]
+tags: [arrepentimiento, carencia, causas, celular, engano, infidelidad, psicologo, relacion]
 excerpt_separator: <!--more-->
 ---
 

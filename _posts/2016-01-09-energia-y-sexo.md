@@ -1,8 +1,9 @@
 ---
 layout: post
-title:  "Ambiente Erótico"
+title:  "Energía y Sexo"
+img: 'energia-y-sexo'
 categories: [articulos]
-tags: [ambiente, erotismo, parejas, pasion, preparacion, sexo]
+tags: [cansancio, energia, rutina, sexo]
 excerpt_separator: <!--more-->
 ---
 
